@@ -8,6 +8,7 @@
 * [Node JS](https://nodejs.org/en/download/)
 * [MongoDB](https://www.mongodb.com/try/download/community)
 * [Robo 3T](https://robomongo.org/download)
+* [Android Studio](https://developer.android.com/studio)
 * [Cmder](https://cmder.net/)
 * [Adobe XD](https://www.adobe.com/products/xd.html)
 * [Zoom](https://zoom.us/download)
