@@ -2,7 +2,7 @@
 
 * Google Chrome
 * VS Code
-* [FiraCode font][https://github.com/tonsky/FiraCode]
+* [FiraCode font](https://github.com/tonsky/FiraCode)
 * Git
 * Node JS
 * MongoDB
