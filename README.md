@@ -1,5 +1,7 @@
 ## After windows:
 
+### [Windows 10 Activation Code](https://gist.github.com/realoriginal/a1b35be405f86b6c7ba613a6fa189db6)
+
 * [Google Chrome](https://www.google.com/chrome/)
 * [VS Code](https://code.visualstudio.com/download)
 * [WebStorm](https://www.jetbrains.com/webstorm/)
