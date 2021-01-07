@@ -14,6 +14,6 @@
 * [Cmder](https://cmder.net/)
 * [Adobe XD](https://www.adobe.com/products/xd.html)
 * [Zoom](https://zoom.us/download)
-* [NetSpeedMeter](https://netspeedmonitor.net/)
+* [NetSpeedMeter](https://netspeedmonitor.net/download/)
 * [Winrar](https://www.win-rar.com/start.html?&L=0)
 * [LightShot](https://app.prntscr.com/en/download.html)
