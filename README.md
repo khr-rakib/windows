@@ -17,3 +17,4 @@
 * [NetSpeedMeter](https://netspeedmonitor.net/download/)
 * [Winrar](https://www.win-rar.com/start.html?&L=0)
 * [LightShot](https://app.prntscr.com/en/download.html)
+* [Yarn](https://classic.yarnpkg.com/en/docs/install#windows-stable)
